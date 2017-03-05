@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Vino" size="0.247000 0.247000" />
+    <ImageTarget name="Sladkor" size="0.247000 0.361160" />
+    <ImageTarget name="Riz" size="0.247000 0.421422" />
+    <ImageTarget name="Pivo" size="0.247000 0.635561" />
+    <ImageTarget name="Moka" size="0.247000 0.382946" />
+    <ImageTarget name="Mleko" size="0.247000 0.445265" />
+    <ImageTarget name="Jogurt" size="0.247000 0.398913" />
+    <ImageTarget name="Jajca" size="0.247000 0.180001" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\ArCart\\VuforiaSDKAndSamples\\samples\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_up.xml",
+        "source": "F:\\ArCart\\VuforiaSDKAndSamples\\samples\\app\\src\\main\\res\\anim\\bottom_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\vinko_000\\Desktop\\VuforiaSDKAndSamples\\samples\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_up.xml",
+        "source": "C:\\Users\\vinko_000\\Desktop\\VuforiaSDKAndSamples\\samples\\app\\src\\main\\res\\anim\\bottom_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\vinko_000\\Desktop\\VuforiaSDKAndSamples\\samples\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_down.xml",
+        "source": "C:\\Users\\vinko_000\\Desktop\\VuforiaSDKAndSamples\\samples\\app\\src\\main\\res\\anim\\bottom_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\vinko_000\\Desktop\\VuforiaSDKAndSamples\\ISolfeggio\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_up.xml",
+        "source": "C:\\Users\\vinko_000\\Desktop\\VuforiaSDKAndSamples\\ISolfeggio\\app\\src\\main\\res\\anim\\bottom_up.xml"
+    },
+    {
+        "merged": "F:\\ArCart\\VuforiaSDKAndSamples\\samples\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_down.xml",
+        "source": "F:\\ArCart\\VuforiaSDKAndSamples\\samples\\app\\src\\main\\res\\anim\\bottom_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\vinko_000\\Desktop\\VuforiaSDKAndSamples\\ISolfeggio\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_down.xml",
+        "source": "C:\\Users\\vinko_000\\Desktop\\VuforiaSDKAndSamples\\ISolfeggio\\app\\src\\main\\res\\anim\\bottom_down.xml"
+    }
+]
